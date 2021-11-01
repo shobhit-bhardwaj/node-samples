@@ -1,0 +1,25 @@
+npm init --yes
+
+npm install <PACKAGE_NAME>
+npm i <PACKAGE_NAME>
+npm i <PACKAGE_NAME> --save-dev
+
+npm un <PACKAGE_NAME>
+
+npm list
+npm list --depth=0
+
+npm view <PACKAGE_NAME> dependencies
+
+npm outdated
+
+npm i -g npm-check-updates
+npm-check-updates
+ncu
+ncu -u
+
+npm update
+
+npm login
+npm publish
+npm version major/minor/patch
