@@ -1,0 +1,7 @@
+{
+	"appName": "Configuration Application",
+
+	"mail": {
+		"hostName": "default-mail-host"
+	}
+}
